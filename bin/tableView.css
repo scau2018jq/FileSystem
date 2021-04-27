@@ -1,0 +1,18 @@
+.my-viewtable {
+	-fx-background-color: #ffffff;
+	-fx-border-color: #d3d3d3;
+	-fx-border-width:0.5px;
+}
+
+
+.my-tableColumn {
+	-fx-background-color: white;
+	-fx-border-color: #d3d3d3;
+	-fx-border-width:0.5px;
+}
+
+.my-treeView{
+	-fx-background-color: #ffffff;
+	-fx-border-color: #d3d3d3;
+	-fx-border-width:0.5px;
+}
